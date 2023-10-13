@@ -1,0 +1,16 @@
+{
+    "client": "Thunder Client",
+    "environmentName": "local",
+    "dateExported": "2023-10-13T14:18:59.436Z",
+    "version": "1.0",
+    "variables": [
+        {
+            "name": "url",
+            "value": "http://localhost:3000"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MjhhNTU4MWIyYTg3ZjgzNGM3N2JjMyIsImlhdCI6MTY5NzE2Mjc0MSwiZXhwIjoxNjk3MjQ5MTQxfQ.bocm8c0FdfABbK5QYF1D8Ol-ZTF3LJac4C8UTdhHS9g"
+        }
+    ]
+}
