@@ -16,7 +16,7 @@ Foram desenvolvidos endpoints com as funcionalidades:
 - CRUD de pedidos
 - CRUD de usuários (clientes e funcionários)
 - CRUD de pagamentos
-- CRUD de cardápio
+- CRUD de produtos
 - Login com JWT
 
 
